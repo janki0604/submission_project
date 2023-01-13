@@ -273,6 +273,8 @@ class _OtpState extends State<Otp> {
                       setState(() {
                         textEditingController.text = "123456";
                       });
+
+                      
                     },
                   )),
                 ],
